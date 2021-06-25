@@ -4,7 +4,4 @@ fun main() {
     mutableList.add("two")
     println(mutableList)
     val string = "1223"
-    string.length
-    val i = 1
-    i.toBigInteger()
 }
